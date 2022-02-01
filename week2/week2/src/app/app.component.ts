@@ -12,5 +12,7 @@ export class AppComponent {
       'Learn Angular',
       'Learn Redux'
   ];
-  thingsCompleted = [];
+  thingsCompleted = [
+      'Learn React'
+  ];
 }
